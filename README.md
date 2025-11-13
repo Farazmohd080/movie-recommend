@@ -1,6 +1,5 @@
 # 🎥 Movie Recommendation System
 
-### 👨‍💻 Author: [Your GitHub Username](https://github.com/YourGitHubUsername)
 
 A **Machine Learning-based Movie Recommendation System** that suggests movies to users based on similarities in movie content such as **genres**, **keywords**, **cast**, and **crew**.  
 
